@@ -2252,9 +2252,15 @@
     <string name="lockscreen_background_default_wallpaper">”Domyślna tapeta”</string>
 
     <!-- Lockscreen, hide initial pages hints -->
-
     <string name="lockscreen_hide_hints_title">”Ukryj podpowiedzi”</string>
     <string name="lockscreen_hide_hints_summary">”Wyłącza podpowiedzi widżetów (tylko w trybie portretowym)."</string>
-
+    
+    <!-- Privacy Guard -->
+    <string name="app_security_title">Bezpieczeństwo aplikacji</string>
+    <string name="privacy_guard_switch_label">Włącz Strażnika Prywatności</string>
+    <string name="privacy_guard_dlg_title">Właczyć Strażnika prywatności?</string>
+    <string name="privacy_guard_dlg_text">Gdy Strażnik Prywatności jest włączony aplikacja nie ma dostępu do takich danych jak kontakty, wiadomości czy historia rozmów..</string>
+    <string name="privacy_guard_default_title">Strażnik Prywatnośći</string>
+    <string name="privacy_guard_default_summary">Włączaj Strażnika Prywatności domyślnie dla nowo zainstalowanych aplikacji.</string>
 
 </resources>
